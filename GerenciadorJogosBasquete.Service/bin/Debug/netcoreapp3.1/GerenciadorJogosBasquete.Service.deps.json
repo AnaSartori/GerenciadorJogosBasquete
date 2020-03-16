@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GerenciadorJogosBasquete.Service/1.0.0": {
+        "dependencies": {
+          "GerenciadorJogosBasquete.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GerenciadorJogosBasquete.Service.dll": {}
+        }
+      },
+      "GerenciadorJogosBasquete.Domain/1.0.0": {
+        "runtime": {
+          "GerenciadorJogosBasquete.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenciadorJogosBasquete.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GerenciadorJogosBasquete.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

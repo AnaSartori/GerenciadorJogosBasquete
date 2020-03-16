@@ -1,0 +1,8 @@
+C:\Users\AnaCarolina\Desktop\TesteFagron\GerenciadorJogosBasquete\GerenciadorJogosBasquete.Domain\bin\Debug\netcoreapp3.1\GerenciadorJogosBasquete.Domain.deps.json
+C:\Users\AnaCarolina\Desktop\TesteFagron\GerenciadorJogosBasquete\GerenciadorJogosBasquete.Domain\bin\Debug\netcoreapp3.1\GerenciadorJogosBasquete.Domain.dll
+C:\Users\AnaCarolina\Desktop\TesteFagron\GerenciadorJogosBasquete\GerenciadorJogosBasquete.Domain\bin\Debug\netcoreapp3.1\GerenciadorJogosBasquete.Domain.pdb
+C:\Users\AnaCarolina\Desktop\TesteFagron\GerenciadorJogosBasquete\GerenciadorJogosBasquete.Domain\obj\Debug\netcoreapp3.1\GerenciadorJogosBasquete.Domain.csprojAssemblyReference.cache
+C:\Users\AnaCarolina\Desktop\TesteFagron\GerenciadorJogosBasquete\GerenciadorJogosBasquete.Domain\obj\Debug\netcoreapp3.1\GerenciadorJogosBasquete.Domain.AssemblyInfoInputs.cache
+C:\Users\AnaCarolina\Desktop\TesteFagron\GerenciadorJogosBasquete\GerenciadorJogosBasquete.Domain\obj\Debug\netcoreapp3.1\GerenciadorJogosBasquete.Domain.AssemblyInfo.cs
+C:\Users\AnaCarolina\Desktop\TesteFagron\GerenciadorJogosBasquete\GerenciadorJogosBasquete.Domain\obj\Debug\netcoreapp3.1\GerenciadorJogosBasquete.Domain.dll
+C:\Users\AnaCarolina\Desktop\TesteFagron\GerenciadorJogosBasquete\GerenciadorJogosBasquete.Domain\obj\Debug\netcoreapp3.1\GerenciadorJogosBasquete.Domain.pdb
