@@ -3,9 +3,6 @@ angular.module('app').factory('jogoBasqueteApi', function ($http, config){
         return $http({
             method: "POST",
             url: config.baseUrl + "/add",
-            headers: {
-                'Content-Type': 'application/json'
-            },
             data: lancamento
         });
     };
