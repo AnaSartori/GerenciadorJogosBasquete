@@ -1,0 +1,60 @@
+/* Principal - Index */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: auto;
+}
+
+footer {
+  height: 50px;
+  padding: 10px;
+}
+
+.text-footer {
+  color: #fff;
+  text-align: center;
+}
+
+.row {
+  height: 100%;
+}
+
+.main-content {
+  padding: 30px 50px 10px 50px;
+}
+
+.menu {
+  border-right: inset;
+  padding-top: 20px;
+  padding-right: 0;
+}
+
+
+/* Views */
+.page-header {
+  margin-bottom: 30px;
+}
+
+.btn-form {
+  width: 100px;
+  float: right;
+}
+
+.text-score {
+  float: right;
+  color: blueviolet;
+  font-size: medium;
+  font-weight: 500;
+}
